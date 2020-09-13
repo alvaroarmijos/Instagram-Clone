@@ -18,7 +18,7 @@ Que plugins necesitas para el funcionamiento de la aplicacion
 - [flutter_svg](https://pub.dev/packages/flutter_svg#-installing-tab- "flutter_svg")
 
   
-  # Construido con 🛠️
+ # Construido con 🛠️
   - [Flutter](https://flutter.dev/ "flutter")
   - [Visual Stuido Code](https://code.visualstudio.com/ "Visual Stuido Code")
 
