@@ -20,5 +20,5 @@ Que plugins necesitas para el funcionamiento de la aplicacion
   
  # Construido con 🛠️
   - [Flutter](https://flutter.dev/ "flutter")
-  - [Visual Stuido Code](https://code.visualstudio.com/ "Visual Stuido Code")
+  - [Visual Studio Code](https://code.visualstudio.com/ "Visual Studio Code")
 
