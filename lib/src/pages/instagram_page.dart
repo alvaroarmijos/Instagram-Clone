@@ -109,10 +109,6 @@ class InstagramPage extends StatelessWidget {
                     descripcion: 'Donec condimentum pharetra eros',
                     comments: '44',
                   ),
-                  Container(
-                    width: double.infinity,
-                    height: 3,
-                  ),
 
                 ]
               ),
